@@ -1,0 +1,18 @@
+hawkthorne-journey:scripts/album.py	132	Kyle Conroy:72:0,Kyle Conroy:42:25,Kyle Conroy:22:22,Kyle Conroy:43:2,Kyle Conroy:2:0	136	Kyle Conroy:136.9	Kyle Conroy:13.69
+hawkthorne-journey:scripts/animations.py	103	Kyle Conroy:100:0,Kyle Conroy:4:1	103	Kyle Conroy:103.1	Kyle Conroy:10.31
+hawkthorne-journey:scripts/clean.py	17	Kyle Conroy:17:0,Kyle Conroy:1:1	17	Kyle Conroy:17.1	Kyle Conroy:1.71
+hawkthorne-journey:scripts/create_post.py	49	Kyle Conroy:57:0,Kyle Conroy:3:12,Kyle Conroy:2:1	49	Kyle Conroy:49.4	Kyle Conroy:4.94
+hawkthorne-journey:scripts/credits.py	5	Kyle Conroy:5:0	5	Kyle Conroy:5.0	Kyle Conroy:0.5
+hawkthorne-journey:scripts/fixcostumes.py	55	Kyle Conroy:41:0,Kyle Conroy:18:4	55	Kyle Conroy:55.4	Kyle Conroy:5.54
+hawkthorne-journey:scripts/generate_travis.py	27	Kyle Conroy:27:0,Kyle Conroy:1:1	27	Kyle Conroy:27.1	Kyle Conroy:2.71
+hawkthorne-journey:scripts/gif.py	32	Kyle Conroy:32:0	32	Kyle Conroy:32.0	Kyle Conroy:3.2
+hawkthorne-journey:scripts/pages.py	45	Kyle Conroy:45:0	45	Kyle Conroy:45.0	Kyle Conroy:4.5
+hawkthorne-journey:scripts/productionize.py	55	Kyle Conroy:47:0,Kyle Conroy:23:4,Kyle Conroy:3:3,Kyle Conroy:1:12,Kyle Conroy:4:16,Kyle Conroy:11:4,Kyle Conroy:0:4,Kyle Conroy:2:0,Kyle Conroy:1:0,Kyle Conroy:3:0,Kyle Conroy:5:0	58	Kyle Conroy:58.6	Kyle Conroy:5.86
+hawkthorne-journey:scripts/s3upload.py	20	Kyle Conroy:20:0	20	Kyle Conroy:20.0	Kyle Conroy:2.0
+hawkthorne-journey:scripts/socialize.py	121	Kyle Conroy:36:0,Kyle Conroy:7:1,Kyle Conroy:39:9,Kyle Conroy:2:2,Kyle Conroy:3:0,Kyle Conroy:15:0,Kyle Conroy:0:13,Kyle Conroy:11:2,Kyle Conroy:40:10,Kyle Conroy:18:8,Kyle Conroy:6:8,Kyle Conroy:1:1,Kyle Conroy:1:3,Kyle Conroy:3:27,Kyle Conroy:4:3,Kyle Conroy:2:2,Kyle Conroy:1:1,Kyle Conroy:1:1,Kyle Conroy:7:1,Kyle Conroy:3:3,Kyle Conroy:31:19,Kyle Conroy:3:3,Kyle Conroy:4:0,Kyle Conroy:2:2,Kyle Conroy:1:1,Kyle Conroy:1:1	128	Kyle Conroy:129.0	Kyle Conroy:12.9
+hawkthorne-journey:scripts/sparkle.py	82	Kyle Conroy:62:0,Kyle Conroy:26:20,Kyle Conroy:58:4,Kyle Conroy:33:5,Kyle Conroy:20:4,Kyle Conroy:1:1,Kyle Conroy:1:4,Kyle Conroy:2:1,Kyle Conroy:1:1,Kyle Conroy:14:4,Kyle Conroy:5:0,Kyle Conroy:7:75,Protuhj:7:75,Kyle Conroy:60:84	30	Kyle Conroy:28.8327279526,Kyle Conroy:Protuhj:1.70737195178,Protuhj:-0.0400999043469	Kyle Conroy:2.88327279526,Kyle Conroy:Protuhj:0.0170737195178,Protuhj:-0.00400999043469
+hawkthorne-journey:scripts/upload.py	32	Kyle Conroy:53:0,Kyle Conroy:7:0,Kyle Conroy:1:1,Kyle Conroy:1:3,Kyle Conroy:8:48,Kyle Conroy:3:2,Kyle Conroy:11:6,Kyle Conroy:13:5	34	Kyle Conroy:34.3	Kyle Conroy:3.43
+hawkthorne-journey:scripts/upload_binaries.py	57	Kyle Conroy:39:0,Kyle Conroy:4:3,Kyle Conroy:0:1,Kyle Conroy:18:1	56	Kyle Conroy:56.4	Kyle Conroy:5.64
+hawkthorne-journey:scripts/upload_release_notes.py	20	Kyle Conroy:20:0,Protuhj:20:0	40	Kyle Conroy:20.0,Protuhj:20.0	Kyle Conroy:2.0,Protuhj:2.0
+hawkthorne-journey:scripts/validate.py	39	Kyle Conroy:39:0,Protuhj:39:0	78	Kyle Conroy:39.0,Protuhj:39.0	Kyle Conroy:3.9,Protuhj:3.9
+hawkthorne-journey:scripts/version.py	66	Kyle Conroy:36:0,Kyle Conroy:7:2,Kyle Conroy:2:2,Kyle Conroy:1:1,Kyle Conroy:1:1,Kyle Conroy:15:8,Kyle Conroy:4:0,Kyle Conroy:18:32,Kyle Conroy:0:1,Kyle Conroy:13:2,Kyle Conroy:11:5,Kyle Conroy:1:1	58	Kyle Conroy:58.0	Kyle Conroy:5.8
